@@ -1,2 +1,2 @@
-# NamePipeTest2_c-
+# NamePipe with c++
 NamePipe test with c++
